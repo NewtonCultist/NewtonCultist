@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on Anyone who is also interested on this topics
 - 📫 You can reach me by email "tmerlo@uc.cl"
-- ⚡ Fun fact: I am a firefigther volunteer
+- ⚡ Fun fact: I am a firefigther volunteer candidate
 
 <!---
 NewtonCultist/NewtonCultist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
